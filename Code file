@@ -4,7 +4,8 @@ from PIL import Image, ImageDraw
 import numpy as np
 
 Loading the known pictures
-We are loading the database with known images from memory and creating an array of their properties into it. Next step we are giving a name to each known image.
+We are loading the database with known images from memory and creating an array of their properties into it.
+In the next step we are giving a name to each known image.
 
 
 # Load an image with an unknown face
